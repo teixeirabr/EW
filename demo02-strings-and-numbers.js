@@ -16,6 +16,10 @@ console.log(
     isNaN(mySalary)
 )
 
+console.log(
+    isNaN(1)
+)
+
 let myString = "Hello World"
 let secondString = "Hello World 2"
 let myStringWithVars = `${myString} - ${secondString}`
