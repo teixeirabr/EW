@@ -1,2 +1,1 @@
-# EW
 Erik Wendel course
